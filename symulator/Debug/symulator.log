@@ -1,0 +1,21 @@
+﻿  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  Lis.cpp
+  Mlecz.cpp
+  Operator.cpp
+  Organizm.cpp
+  Owca.cpp
+  Roslina.cpp
+  Swiat.cpp
+C:\Users\artur\Desktop\projektobiektowe\symulator2\symulator\Swiat.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+  Trawa.cpp
+  WilczeJagody.cpp
+  Wilk.cpp
+  Zolw.cpp
+  Zwierze.cpp
+  main.cpp
+C:\Users\artur\Desktop\projektobiektowe\symulator2\symulator\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  symulator.vcxproj -> C:\Users\artur\Desktop\projektobiektowe\symulator2\Debug\symulator.exe

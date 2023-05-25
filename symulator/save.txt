@@ -1,0 +1,18 @@
+20 20
+Lis 9 3
+Lis 10 14
+Wilk 12 4
+Wilk 2 6
+Owca 14 6
+Owca 5 19
+Czlowiek 3 11
+Antylopa 2 11
+Antylopa 6 10
+Zolw 8 1
+Zolw 8 6
+Trawa 12 12
+Mlecz 15 10
+Guarana 7 15
+WilczeJagody 2 10
+BarszczSosnowskiego 12 10
+Mlecz 14 11
